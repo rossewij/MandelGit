@@ -2,6 +2,7 @@ using System.Drawing.Drawing2D;
 /* Dit programma tekent een Mandelbrot
  * 
  * Deze versie hoort bij de dev branch van Marcel
+ * Nu een aanpassing direct in GitHub
 */
 using System;
 using System.Windows.Forms;
