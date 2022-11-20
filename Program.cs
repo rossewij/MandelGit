@@ -3,6 +3,8 @@ using System.Drawing.Drawing2D;
  * 
  * Deze versie hoort bij de dev branch van Marcel
  * Nu een aanpassing direct in GitHub
+ * door mij
+ * verandering
 */
 using System;
 using System.Windows.Forms;
