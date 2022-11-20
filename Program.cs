@@ -12,10 +12,11 @@ using System.Drawing;
 
 
 int npixels = 300, x, y;
-double middenx = 0, middeny = 0, schaal = 0.01;
+double middenx = 0, middeny = 0, schaal = 0.02;
 byte MandelGetal, aantal = 100;
 Form scherm = new Form();
 scherm.Text = "Mandelbrot";
+
 
 byte CalculateMandalgetal(double x, double y, byte aantal)
 {
